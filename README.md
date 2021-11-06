@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on YangBot!
 - 🌱 I’m currently learning Kotlin.
 - ⚡ Fun fact: Nothing Here.
+- Coding Activity by WakaTime
+![Coding Activity](https://wakatime.com/share/@525c5e96-9944-4fdb-b0c6-a4424e2516b1/03f5a133-ad37-4e8e-b025-867018644ee5.svg)
+- Coding Languages by WakaTime
+![Languages](https://wakatime.com/share/@525c5e96-9944-4fdb-b0c6-a4424e2516b1/51fdaa9d-75af-43b0-a700-8322d62718c7.svg)
